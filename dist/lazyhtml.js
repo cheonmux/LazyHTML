@@ -181,7 +181,7 @@ console.log('Powered by LazyHTML: https://github.com/Niresh12495/LazyHTML ```Laz
 		}, {
 			//  root: null,
 			rootMargin: rootMarginValue,
-			threshold: 0
+			threshold: 50
 		});
 		// Delay works when trackVisibility is true, Delay needs to be at-least 100,       delay: 100
 		//      trackVisibility: true,
